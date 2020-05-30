@@ -1,0 +1,19 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App to optimize Images",
+  "main": "main.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "RaigekiCrimson",
+  "license": "MIT"
+}
