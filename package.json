@@ -4,7 +4,11 @@
   "description": "App to optimize Images",
   "main": "main.js",
   "dependencies": {
-    "init": "^0.1.2"
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "init": "^0.1.2",
+    "slash": "^3.0.0"
   },
   "devDependencies": {
     "electron": "^9.0.0",
